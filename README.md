@@ -9,6 +9,7 @@ Implemented the remaining core features of the BookMyShow Clone application.
 
 These changes complete the main user flow of browsing, selecting, and booking movies.
 
+Praneeth-work
 Changes included:
 - Setup of main React application (index.html, main.jsx, App.jsx)
 - Implementation of navigation bar (Navbar component)
