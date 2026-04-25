@@ -50,3 +50,4 @@ export default function Success() {
     </div>
   );
 }
+// Updated success page UI
