@@ -16,3 +16,5 @@ export default function App() {
     </Routes>
   );
 }
+
+// Improved app structure and UI flow - Praneeth
