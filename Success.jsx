@@ -50,3 +50,4 @@ export default function Success() {
     </div>
   );
 }
+// Improved success page UI and confirmation flow - Praneeth
