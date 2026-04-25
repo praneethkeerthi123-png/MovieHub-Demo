@@ -111,3 +111,4 @@ export default function Seats() {
   );
 }
 // Improved seat selection UI and interaction - Praneeth
+// Optimized seat selection logic and UI - Praneeth
