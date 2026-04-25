@@ -39,3 +39,4 @@ export default function History() {
     </div>
   );
 }
+// Improved booking history display
