@@ -32,3 +32,4 @@ export default function Navbar({ search, setSearch }) {
 }
 
 // Updated navigation styling and layout
+// Improved navigation UI and layout - Praneeth
