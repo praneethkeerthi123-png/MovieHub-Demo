@@ -51,3 +51,4 @@ export default function Success() {
   );
 }
 // Improved success page UI and confirmation flow - Praneeth
+// Enhanced confirmation message and layout - Praneeth
