@@ -26,3 +26,4 @@ export default function MovieCard({ movie }) {
     </div>
   );
 }
+// Improved card UI
